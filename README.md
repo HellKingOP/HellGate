@@ -1,4 +1,4 @@
-##HellGate
+#HellGate
 
 Github of HellGate.
 
